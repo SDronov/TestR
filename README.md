@@ -1,2 +1,2 @@
 # TestR
-Test R prohramming language
+Test R programming language
